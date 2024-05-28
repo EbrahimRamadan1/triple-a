@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65023eb1.css",
+    "main.js": "/static/js/main.2e96c591.js",
+    "static/media/MELIGHT.otf": "/static/media/MELIGHT.b24a33e559e11d504c52.otf",
+    "static/media/logo.svg": "/static/media/logo.882f9f0ae935fb0d56ea8d56d9668ecc.svg",
+    "index.html": "/index.html",
+    "main.65023eb1.css.map": "/static/css/main.65023eb1.css.map",
+    "main.2e96c591.js.map": "/static/js/main.2e96c591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65023eb1.css",
+    "static/js/main.2e96c591.js"
+  ]
+}
